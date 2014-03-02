@@ -7,3 +7,5 @@ feature 2 A
 feature 2 B
 
 Release work
+
+Hotfix change
