@@ -8,4 +8,6 @@ feature 2 B
 
 Release work
 
+Hotfix change
+
 feature 3
